@@ -6,7 +6,7 @@ My Notes on Data Structures and Algorithms
 <details>
 <summary>Tree and Graph</summary>
   <ul>
-    <li><a href="#">Graph</a></li>
+    <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Graphs">Graph</a></li>
  </ul>
 </details>
 <details>
