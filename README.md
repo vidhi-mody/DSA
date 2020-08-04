@@ -12,6 +12,6 @@ My Notes on Data Structures and Algorithms
 <details>
 <summary>Interview Prep</summary>
   <ul>
-    <li><a href="#">Goldman Sachs</a></li>
+    <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Interview_prep/Goldman_Sachs">Goldman Sachs</a></li>
   </ul>
 </details>
