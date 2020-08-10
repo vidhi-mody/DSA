@@ -1,6 +1,6 @@
 # DSA
 
-My Notes on Data Structures and Algorithms
+My Notes on Data Structures, Algorithms and Interview Prep
 
 ### Topics
 <details>
