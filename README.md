@@ -1,6 +1,6 @@
 # DSA
 
-My Notes on Data Structures and Algorithms
+My Notes on Data Structures, Algorithms and Interview Prep
 
 ### Topics
 <details>
@@ -13,7 +13,7 @@ My Notes on Data Structures and Algorithms
 <details>
 <summary>Interview Prep</summary>
   <ul>
-    <li><a href="#">Amazon</a></li>
+    <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Interview_prep/Adobe">Adobe</a></li>
     <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Interview_prep/Goldman_Sachs">Goldman Sachs</a></li>
   </ul>
 </details>
