@@ -1,3 +1,3 @@
-| Title                                                                                                 | Solution         | Difficulty | Attempted |
-| ----------------------------------------------------------------------------------------------------- | ---------------- | ---------- | --------- |
-| [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | [📖](two-sum.py) | Easy       | ✅        |
+| Title                                                                                                 | Difficulty | Solution         | Attempted |
+| ----------------------------------------------------------------------------------------------------- | -----------| ---------------- | --------- |
+| [Two Sum](https://leetcode.com/problems/two-sum/)                                                     | Easy       | [📖](two-sum.py) | ✅        |
