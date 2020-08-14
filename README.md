@@ -13,7 +13,7 @@ My Notes on Data Structures, Algorithms and Interview Prep
 <details>
 <summary>Interview Prep</summary>
   <ul>
-    <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Interview_prep/Adobe">Adobe</a></li>
+    <li><a href="/Interview_prep/Adobe">Adobe</a></li>
     <li><a href="https://github.com/vidhi-mody/DSA/tree/master/Interview_prep/Goldman_Sachs">Goldman Sachs</a></li>
   </ul>
 </details>
