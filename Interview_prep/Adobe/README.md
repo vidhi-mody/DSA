@@ -1,5 +1,6 @@
 | Title                                                                | Difficulty | Solution                | Attempted |
 | -------------------------------------------------------------------- | -----------| ----------------------- | --------- |
+| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| Easy | [📖](FindAllNumbersDisappearedInAnArray.py) | ✅ |
 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| Easy       | [📖](JewelsAndStones.py) | ✅        |
 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)     | Easy       | [📖](Reverse-Integer.py) | ✅        |
 | [To Lower Case](https://leetcode.com/problems/to-lower-case/)        | Easy       | [📖](to-lower-case.py)   | ✅        |
