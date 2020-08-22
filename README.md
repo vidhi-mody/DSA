@@ -18,5 +18,7 @@ My Notes on Data Structures, Algorithms and Interview Prep
     <li><a href="/Interview_prep/Google">Google</a></li>
     <li><a href="#">Facebook</a></li>
   </ul>
+</details>
+<details>
 <summary><a href="/Strings">Strings</a></summary>
 </details>
