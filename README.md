@@ -4,6 +4,9 @@ My Notes on Data Structures, Algorithms and Interview Prep
 
 ### Topics
 <details>
+<summary><a href="/Arrays">Arrays</a></summary>
+</details>
+<details>
 <summary><a href="/Dynamic-Programming">Dynamic Programming</a></summary>
 </details>
 <details>
