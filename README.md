@@ -26,5 +26,8 @@ My notes on Data Structures, Algorithms and Interview Prep
  </ul>
 </details>
 <details>
+<summary><a href="/Sorting">Sorting</a></summary>
+</details>
+<details>
 <summary><a href="/Strings">Strings</a></summary>
 </details>
